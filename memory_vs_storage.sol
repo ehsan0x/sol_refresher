@@ -3,7 +3,7 @@
 //examining usage of storage or pass by reference and memory or pass by value
 pragma solidity ^0.8.11;
 
-contract Pass_By{
+contract PassBy{
     struct Car {
         string make;
         string model;
